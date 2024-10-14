@@ -1,0 +1,14 @@
+person1:
+- age: 10
+  cmd: hello
+  name: A
+  value: 100
+- age: 20
+  cmd: world
+  name: B
+  value: 200
+person2:
+- age: 30
+  cmd: happy
+  name: C
+  value: 300

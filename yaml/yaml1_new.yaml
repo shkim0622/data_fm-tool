@@ -1,0 +1,16 @@
+names:
+- 0: person
+  1: bicycle
+- 2: car
+  3: motorcycle
+  4: airplane
+  5: bus
+path: ../datasets/coco128
+person2:
+- age: 30
+  cmd: happy
+  name: C
+  value: 300
+test: null
+train: images/train2017
+val: images/train2017

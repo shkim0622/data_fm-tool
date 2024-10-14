@@ -1,0 +1,15 @@
+<person> 
+    <person1>
+        <name>A</name>
+        <age>10</age>
+        <cmd>hello</cmd>
+        <value>100</value>
+    </person1>   
+    
+    <person2>
+        <name>B</name>
+        <age>20</age>
+        <cmd>world</cmd>
+        <value>200</value>
+    </person2>
+<person3><name>C</name><age>30</age><cmd>happy</cmd><value>300</value></person3></person>

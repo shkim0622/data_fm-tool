@@ -1,0 +1,19 @@
+{"person1" : 
+    [
+        {
+            "name":"A",
+            "age":10,
+            "cmd":"hello",
+            "value":100 
+        }
+    ],
+"person2" : 
+    [
+        {
+            "name":"B",
+            "age":2,
+            "cmd":"world",
+            "value":200 
+        }
+    ]
+}

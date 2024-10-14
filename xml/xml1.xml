@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person> <!--root명-->
+    <person1>
+        <name>A</name>
+        <age>10</age>
+        <cmd>hello</cmd>
+        <value>100</value>
+    </person1>   
+    
+    <person2>
+        <name>B</name>
+        <age>20</age>
+        <cmd>world</cmd>
+        <value>200</value>
+    </person2>
+</person>

@@ -1,0 +1,9 @@
+person1: 
+ - name: A
+   age: 10
+   cmd: hello
+   value: 100 
+ - name: B
+   age: 20
+   cmd: world
+   value: 200 
